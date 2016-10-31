@@ -2,5 +2,9 @@
     {
         "merged": "/home/douglas/test/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/home/douglas/test/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/douglas/blinger/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/douglas/blinger/android/res/drawable-xhdpi/ic_launcher.png"
     }
 ]

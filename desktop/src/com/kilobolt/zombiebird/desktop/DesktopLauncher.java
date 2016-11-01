@@ -2,7 +2,7 @@ package com.kilobolt.zombiebird.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.kilobolt.zombiebird.ZBGame;
+import com.kilobolt.ZombieBird.ZBGame;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {

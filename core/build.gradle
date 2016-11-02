@@ -7,8 +7,5 @@ eclipse.project {
 }
 dependencies {
     compile fileTree(include: '*.jar', dir: '../libs')
-    compile files('libs/tween-engine-api-sources.jar')
-    compile files('libs/tween-engine-api.jar')
-    compile files('libs/gdx.jar')
-    compile files('libs/gdx-sources.jar')
+    compile "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
 }

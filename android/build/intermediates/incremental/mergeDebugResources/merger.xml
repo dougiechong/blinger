@@ -6,4 +6,4 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowFullscreen">true</item>
-    </style></file><file path="/home/douglas/blinger/android/res/values/strings.xml" qualifiers=""><string name="app_name">ZombieBird</string></file></source><source path="/home/douglas/blinger/android/build/generated/res/rs/debug"/><source path="/home/douglas/blinger/android/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/douglas/blinger/android/src/debug/res"/></dataSet><mergedItems/></merger>
+    </style></file><file path="/home/douglas/blinger/android/res/values/strings.xml" qualifiers=""><string name="app_name">BlingerBird</string></file></source><source path="/home/douglas/blinger/android/build/generated/res/rs/debug"/><source path="/home/douglas/blinger/android/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/douglas/blinger/android/src/debug/res"/></dataSet><mergedItems/></merger>

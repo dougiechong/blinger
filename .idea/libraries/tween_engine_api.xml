@@ -6,7 +6,6 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/libs/tween-engine-api-sources.jar!/" />
-      <root url="jar://$PROJECT_DIR$/core/libs/tween-engine-api-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

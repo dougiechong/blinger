@@ -7,8 +7,8 @@ gwt {
     minHeapSize="1G"
 
     src = files(file("src/")) // Needs to be in front of "modules" below.
-    modules 'com.kilobolt.zombiebird.GdxDefinition'
-    devModules 'com.kilobolt.zombiebird.GdxDefinitionSuperdev'
+    modules 'com.kilobolt.ZombieBird.GdxDefinition'
+    devModules 'com.kilobolt.ZombieBird.GdxDefinitionSuperdev'
     project.webAppDirName = 'webapp'
 
     compiler {
